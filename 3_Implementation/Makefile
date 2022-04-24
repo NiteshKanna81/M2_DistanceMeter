@@ -1,7 +1,3 @@
-################################################################################
-# Automatically-generated file. Do not edit!
-################################################################################
-
 SHELL := cmd.exe
 RM := rm -rf
 
@@ -37,7 +33,7 @@ SUBDIRS :=
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS +=  \
-../main.c
+main.c
 
 
 PREPROCESSING_SRCS += 
